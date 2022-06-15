@@ -1,0 +1,14 @@
+{
+  "name": "wayabank",
+  "version": "1.0.0",
+  "description": "WAYABANK AUTOMATION TESTING",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ADEWALE",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.6.1"
+  }
+}
